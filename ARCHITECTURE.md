@@ -1,4 +1,4 @@
-# Bluebeam-like Design Review App: Technical Architecture
+# CivilHuB Design Review App: Technical Architecture
 
 ## 1. Overview
 
